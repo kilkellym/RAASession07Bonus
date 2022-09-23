@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Command RAASession07Bonus</Text>
+    <Description>Some description for RAASession07Bonus</Description>
+    <Assembly>RAASession07Bonus.dll</Assembly>
+    <FullClassName>RAASession07Bonus.Command</FullClassName>
+    <ClientId>9fc1a06f-9c90-47fc-89ef-bc57f6cab2bb</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>Application RAASession07Bonus</Name>
+    <Assembly>RAASession07Bonus.dll</Assembly>
+    <FullClassName>RAASession07Bonus.App</FullClassName>
+    <ClientId>852e284c-8ea0-4b88-b120-65dfd29aca4b</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
